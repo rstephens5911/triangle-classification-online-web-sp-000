@@ -1,4 +1,7 @@
 class Triangle
+  # I did a follow-along of this solution code AFTER coding
+  # my extremely crummy BUT WORKING version of triangle!
+  # my version is in my Google Docs!
   attr_reader :a, :b, :c
 
   def initialize(a, b, c)
